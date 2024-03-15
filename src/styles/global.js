@@ -18,6 +18,10 @@ export default createGlobalStyle`
     font-size: 1.3rem;
     overflow: hidden;
     scroll-behavior: smooth;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
   }
 
   h1, h2 {
@@ -70,13 +74,17 @@ export default createGlobalStyle`
     animation: toRight 0.5s forwards;
     align-content: space-between;
     justify-content: space-between;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
   }
 
   .swiper-pagination-bullet-active {
     background: ${({ theme }) => theme.COLORS.BLACK};
   }
 
-  & ::-webkit-scrollbar {
+  /* & ::-webkit-scrollbar {
     background: white;
     width: 1.3rem;
   }
@@ -85,7 +93,7 @@ export default createGlobalStyle`
     background: ${({ theme }) => theme.COLORS.GRAY_500};
     border-radius: 10px;
     border: 0.3rem solid white;
-  }
+  } */
 
   dialog {
     background: rgba(8, 8, 8, 0.64);
@@ -162,6 +170,22 @@ export default createGlobalStyle`
 
     from { 
       transform: rotate(360deg); 
+    }
+  }
+
+  @media(min-width: 1000px) {
+    main {
+      &::-webkit-scrollbar {
+        display: block;
+        width: 17.5px;
+      }
+
+      &::-webkit-scrollbar-thumb {
+        background-color: ${({ theme }) => theme.COLORS.GRAY_500};
+        width: 8px;
+        border-radius: 10px;
+        border: 5px solid white;
+      }
     }
   }
 `;
