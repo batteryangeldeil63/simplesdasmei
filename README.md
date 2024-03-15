@@ -1,7 +1,8 @@
 <p align="center">
-  <img height="80px" src="https://github.com/rayaneacacio/Zer01_Modas/assets/104095370/c3f7aebe-818e-4dac-bd1a-8959c6197a04" />
+  <img height="80px" src="https://github.com/rayaneacacio/Zer01_Modas/assets/104095370/c3f7aebe-818e-4dac-bd1a-8959c6197a04" />  
 </p>
 <p align="justify">
+
 Este é um site de vendas responsivo desenvolvido com React Js e Styled Components para uma loja fictícia. A aplicação apresenta um catálogo de roupas onde os usuários podem visualizar as peças, verificar os tamanhos e cores disponíveis, adicionar itens ao carrinho, favoritar peças de roupas e pesquisar o que desejam.
 </p>
 <p align="justify">
@@ -12,6 +13,7 @@ Além disso, o administrador da loja (user adm) tem a capacidade de editar o cat
 
 > Api: [api_zer01modas](https://github.com/rayaneacacio/api-zer01modas)
 
+<<<<<<< HEAD
 <h2> ! Navegação.</h2>
 
 <div align="center" >
@@ -25,20 +27,55 @@ Além disso, o administrador da loja (user adm) tem a capacidade de editar o cat
 <div align="center" >
   <p>página de catálogo de produtos:</p>
   <img height="400px" src=".github/catalog.gif" />
+=======
+<h2> ! Video Institucional </h2>
+
+<div align="center" >
+
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/52H0zsvk57Y?si=IT4uRmKBsR1DJ8vA)
+  
+</div>
+
+<h2> ! Navegação.</h2>
+
+<div align="center" >
+  <p>primeira página do site:</p>
+  <img height="400px" src=".github/home.gif" />
+>>>>>>> 0c0ac5d70b1527fc77907a9127fc1766aa67b623
 </div>
 
 <br>
 <br>
 
 <div align="center" >
+<<<<<<< HEAD
   <p>página que contém todas as informações de um produto:</p>
   <img height="400px" src=".github/outfit.gif" />
+=======
+  <p>página de catálogo de produtos:</p>
+  <img height="400px" src=".github/catalog.gif" />
+>>>>>>> 0c0ac5d70b1527fc77907a9127fc1766aa67b623
 </div>
 
 <br>
 <br>
 
 <div align="center" >
+<<<<<<< HEAD
+  <p>páginas do carrinho de compras e de pagamento:</p>
+  <img height="400px" src=".github/shopping_cart.gif" />
+=======
+  <p>página que contém todas as informações de um produto:</p>
+  <img height="400px" src=".github/outfit.gif" />
+>>>>>>> 0c0ac5d70b1527fc77907a9127fc1766aa67b623
+</div>
+
+<br>
+<br>
+
+<div align="center" >
+<<<<<<< HEAD
+=======
   <p>páginas do carrinho de compras e de pagamento:</p>
   <img height="400px" src=".github/shopping_cart.gif" />
 </div>
@@ -47,6 +84,7 @@ Além disso, o administrador da loja (user adm) tem a capacidade de editar o cat
 <br>
 
 <div align="center" >
+>>>>>>> 0c0ac5d70b1527fc77907a9127fc1766aa67b623
   <p>(páginas de administração) criação e edição de produtos e de cupons de desconto:</p>
   <p>Experimente o site como administrador, as mudanças não serão permanentes.</p>
   <p>email: mavis@gmail.com; senha: 1234</p>

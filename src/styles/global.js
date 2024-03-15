@@ -84,17 +84,6 @@ export default createGlobalStyle`
     background: ${({ theme }) => theme.COLORS.BLACK};
   }
 
-  /* & ::-webkit-scrollbar {
-    background: white;
-    width: 1.3rem;
-  }
-
-  & ::-webkit-scrollbar-thumb {
-    background: ${({ theme }) => theme.COLORS.GRAY_500};
-    border-radius: 10px;
-    border: 0.3rem solid white;
-  } */
-
   dialog {
     background: rgba(8, 8, 8, 0.64);
   }
