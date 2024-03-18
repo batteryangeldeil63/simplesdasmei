@@ -13,7 +13,6 @@ Além disso, o administrador da loja (user adm) tem a capacidade de editar o cat
 
 > Api: [api_zer01modas](https://github.com/rayaneacacio/api-zer01modas)
 
-<<<<<<< HEAD
 <h2> ! Navegação.</h2>
 
 <div align="center" >
