@@ -13,21 +13,7 @@ Além disso, o administrador da loja (user adm) tem a capacidade de editar o cat
 
 > Api: [api_zer01modas](https://github.com/rayaneacacio/api-zer01modas)
 
-<h2> ! Navegação.</h2>
-
-<div align="center" >
-  <p>primeira página do site:</p>
-  <img height="400px" src=".github/home.gif" />
-</div>
-
-<br>
-<br>
-
-<div align="center" >
-  <p>página de catálogo de produtos:</p>
-  <img height="400px" src=".github/catalog.gif" />
-=======
-<h2> ! Video Institucional </h2>
+<h2 align="center"> Video Institucional </h2>
 
 <div align="center" >
 
@@ -35,46 +21,33 @@ Além disso, o administrador da loja (user adm) tem a capacidade de editar o cat
   
 </div>
 
-<h2> ! Navegação.</h2>
+<h2 align="center"> Navegação.</h2>
 
 <div align="center" >
   <p>primeira página do site:</p>
   <img height="400px" src=".github/home.gif" />
->>>>>>> 0c0ac5d70b1527fc77907a9127fc1766aa67b623
 </div>
 
 <br>
 <br>
 
 <div align="center" >
-<<<<<<< HEAD
-  <p>página que contém todas as informações de um produto:</p>
-  <img height="400px" src=".github/outfit.gif" />
-=======
   <p>página de catálogo de produtos:</p>
   <img height="400px" src=".github/catalog.gif" />
->>>>>>> 0c0ac5d70b1527fc77907a9127fc1766aa67b623
 </div>
 
 <br>
 <br>
 
 <div align="center" >
-<<<<<<< HEAD
-  <p>páginas do carrinho de compras e de pagamento:</p>
-  <img height="400px" src=".github/shopping_cart.gif" />
-=======
   <p>página que contém todas as informações de um produto:</p>
   <img height="400px" src=".github/outfit.gif" />
->>>>>>> 0c0ac5d70b1527fc77907a9127fc1766aa67b623
 </div>
 
 <br>
 <br>
 
 <div align="center" >
-<<<<<<< HEAD
-=======
   <p>páginas do carrinho de compras e de pagamento:</p>
   <img height="400px" src=".github/shopping_cart.gif" />
 </div>
@@ -83,7 +56,6 @@ Além disso, o administrador da loja (user adm) tem a capacidade de editar o cat
 <br>
 
 <div align="center" >
->>>>>>> 0c0ac5d70b1527fc77907a9127fc1766aa67b623
   <p>(páginas de administração) criação e edição de produtos e de cupons de desconto:</p>
   <p>Experimente o site como administrador, as mudanças não serão permanentes.</p>
   <p>email: mavis@gmail.com; senha: 1234</p>
