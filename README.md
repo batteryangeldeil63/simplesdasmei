@@ -68,3 +68,4 @@ Além disso, o administrador da loja (user adm) tem a capacidade de editar o cat
 <p align="center">
   Made with 💜 by <a href="https://www.linkedin.com/in/rayane-ac%C3%A1cio-274092252/"> Rayane Acácio </a>
 </p>
+# simplesloja2024
