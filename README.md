@@ -71,3 +71,5 @@ Além disso, o administrador da loja (user adm) tem a capacidade de editar o cat
 # simplesloja2024
 # dasmei2024
 # dasmei2024
+# meisimples2024
+# dasmei2024 # meisimples2024
